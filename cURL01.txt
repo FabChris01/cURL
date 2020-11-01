@@ -1,0 +1,11 @@
+=> Topic:           cURL
+=> Date:            01-11-2020
+=> YouTube Link:    https://www.youtube.com/watch?v=7XUibDYw4mc
+
+=> My Takeaway:
+
+    - Curl is a command line framework to facilitate site data manipulation
+    - It's a great tool for testing RestAPIs
+    - A seperate installation process is not required as it comes pre built into the git framework
+    - learnt how to perform several functions on site data such as real time changing of site data, 
+        importing site data, making chages to it, saving to a local file space, etc
